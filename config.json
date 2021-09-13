@@ -1,0 +1,26 @@
+{
+  "miners": {
+
+  },
+  "uuid": "",
+  "disks": {
+    "ignore": [],
+    "uuids": {}
+  },
+  "update": {
+    "url": "https://update.cdscfund.org/",
+    "channel": "stable"
+  },
+  "baseUrl": "https://service.371738.com/apis/v1",
+  "uploadUrl": "https://service.371738.com/apis/v1/miner/info",
+  "disklayout": "v2",
+  "uploadIntervalTime": "30000",
+  "netInfoIntervalTime": "300000",
+  "netDelayIntervalTime": "7200000",
+  "upFlowIntervalTime": "3600000",
+  "serviceIntervalTime": "300000",
+  "netInfoTime": "3600000",
+  "aqyStoreSize": "0",
+  "getTimeInterval": "3600000",
+  "uploadColNum":"12"
+}
